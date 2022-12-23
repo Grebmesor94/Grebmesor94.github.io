@@ -1,0 +1,30 @@
+{
+  "profile": { 
+    "rol": "Junior Front End Developer",
+    "description": "2 years of experience in web development. Passionate about learning new technologies, especially CSS and JS ecosystems for the Front End."
+  },
+  "experience": { 
+    "first-job-title": "Front End Developer",
+    "first-job-date": "June 2020 - today",
+    "first-job-description": "For now I have no work experience, however, I am very willing and eager to learn"
+  },
+  "hobbies": { 
+    "first-hobby-title": "Piano",
+    "first-hobby-description": "Since I was very young, music has been part of my essence, especially the piano, I like to play when I have free time.",
+    "second-hobby-title": "Languages",
+    "second-hobby-description": "Learning a new language is always a good idea. A different language is a different perspective of life, for now I speak English, French and a little German.",
+    "third-hobby-title": "Dancing",
+    "third-hobby-description": "Dancing is a good way to relieve stress, share with friends and make some new ones, and have a good time. I love to dance Latin rhythms like salsa, merengue, bachata, among others."
+  },
+  "skills": { 
+    "language": "Languages",
+    "first-skill-text": "Years of experience",
+    "second-skill-text": "Level of knowledge"
+  },
+  "projects": { 
+    "first-project-description": "a dedicated calendar for a work team where its members can add events through reminders, each member can see the events raised by their colleagues, so that everyone is aware of the activities.",
+    "second-project-description": "",
+    "third-project-description": ""
+  }
+}
+
