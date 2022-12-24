@@ -22,6 +22,7 @@ body {
   color: var(--text-color);
   transition: var(--transition);
   font-family: 'Roboto', sans-serif;
+  display: grid;
 }
 
 
