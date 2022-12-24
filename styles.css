@@ -42,7 +42,6 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 100vw;
   height: 75px;
   padding: 0 1.5em;
   background-color: var(--bg-card-color);
@@ -52,14 +51,14 @@ a {
 .switches { 
   display: flex;
   align-items: center;
-
+  justify-content: space-between;
 }
 
 .toggle-theme { 
   display: flex;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
+  cursor: pointer; 
 }
 
 .toggle-theme__icon { 
@@ -123,12 +122,12 @@ a {
 .main { 
   display: grid;
   padding: 2em;
-  gap: .5em;
 }
 
 @media screen and ( min-width: 760px ) {
   .main { 
     grid-template-columns: min-content 1fr;
+    
   }
 }
 
