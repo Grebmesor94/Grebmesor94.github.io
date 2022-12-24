@@ -1,0 +1,34 @@
+{
+  "profile": { 
+    "rol": "Développeur Front End Junior",
+    "description": "2 ans d'expérience en développement web. Passionné par l'apprentissage des nouvelles technologies, en particulier les écosystèmes CSS et JS pour le Front End."
+  },
+  "experience": { 
+    "first-job-title": "Développeur Front End Junior",
+    "first-job-date": "Jun 2020 - aujourd'hui",
+    "first-job-description": "Pour l'instant je n'ai aucune expérience de travail, cependant, je suis très disposé et désireux d'apprendre."
+  },
+  "hobbies": { 
+    "first-hobby-title": "Piano",
+    "first-hobby-description": "Depuis que je suis très jeune, la musique fait partie de mon essence, en particulier le piano, j'aime jouer quand j'ai du temps libre.",
+    "second-hobby-title": "Langues",
+    "second-hobby-description": "Apprendre une nouvelle langue est toujours une bonne idée. Une langue différente est une perspective de vie différente, pour l'instant je parle anglais, français et un peu allemand.",
+    "third-hobby-title": "Danser",
+    "third-hobby-description": "La danse est un bon moyen de soulager le stress, de partager avec des amis et de s'en faire de nouveaux, et de passer un bon moment. J'aime danser les rythmes latins comme la salsa, le merengue, la bachata, entre autres."
+  },
+  "skills": { 
+    "language": "Langues",
+    "first-language": "Anglais",
+    "second-language": "Français",
+    "third-language": "Allemand",
+    "first-skill-text": "Années d'expérience",
+    "second-skill-text": "Niveau de connaissance"
+  },
+  "projects": { 
+    "first-project-description": "Un calendrier dédié pour une équipe de travail où ses membres peuvent ajouter des événements via des rappels, chaque membre peut voir les événements soulevés par ses collègues, afin que chacun soit au courant des activités.",
+    "second-project-description": "Un journal personnel pour capturer vos expériences, avec la fonctionnalité d'ajouter des images pour avoir des souvenirs visuels.",
+    "third-project-description": "Un serveur REST, l'idée du projet était une API REST pour un supermarché, où ses travailleurs, ont un rôle, peuvent manipuler des produits, avec leurs catégories respectives.",
+    "fourth-project-description": "Une application faite pour gérer l'ordre d'une file d'attente, un exemple d'application largement utilisée par les banques, entre autres.",
+    "fifth-project-description": "Une entrée que les utilisateurs utilisent pour rechercher des gifs basés sur un mot ou une phrase."
+  }
+}

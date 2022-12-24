@@ -14,7 +14,7 @@
     <div class="switches">
       <div class="toggle-theme" id="toggle-theme">
         <img  src="assets/icons/moon.svg" alt="icon theme" class="toggle-theme__icon" id="toggle-icon">
-        <p class="toggle-theme__text" id="toggle-text">Dark Mode</p>
+        <p class="toggle-theme__text" id="toggle-text">Modo Oscuro</p>
       </div>
     </div>
     <div class="flags" id="flags">
@@ -45,7 +45,7 @@
         </div>
         <div class="card__header">
           <h2 class="card__title">Rosemberg Lucena</h2>
-          <p class="card__subtitle" data-section="profile" data-value="rol">Junior Front End Developer</p>
+          <p class="card__subtitle" data-section="profile" data-value="rol">Desarrollador Front End junior</p>
         </div>
         <div class="card__body">
           <div class="card__link">
@@ -72,12 +72,12 @@
           <img  src="assets/images/profile.jpeg" alt="experiencia.jpg" class="experience__image">
           <div class="experience__info">
             <p class="experience__time" data-section="experience" data-value="first-job-date">
-              Jun 2020 - Current
+              Jun 2020 - hoy
             </p>
-            <h3 class="experience__job" first-job-title>Front End Developer</h3>
+            <h3 class="experience__job" first-job-title>Desarrollador Web Front End</h3>
             <p class="experience__description" data-section="experience" data-value="first-job-description"> 
               Por ahora no tengo experiencia laboral, sin embargo, me encuentro
-              con mucha disposicion y ganas de aprender</p>
+              con mucha disposición y ganas de aprender.</p>
           </div>
         </div>
       </article>
@@ -89,7 +89,7 @@
             <h3 class="hobbies__title" data-section="hobbies" data-value="first-hobby-title">Piano</h3>
             <p class="hobbies__description" data-section="hobbies" data-value="first-hobby-description">
               Desde muy joven, la música ha sido parte de mi
-              esencia, especialmente el piano, me gusta tocar cuando tengo tiempo libre
+              esencia, especialmente el piano, me gusta tocar cuando tengo tiempo libre.
             </p>
           </div>
         </div>
@@ -99,8 +99,8 @@
             <h3 class="hobbies__title" data-section="hobbies" data-value="second-hobby-title" >Idiomas</h3>
             <p class="hobbies__description" data-section="hobbies" data-value="second-hobby-description">
               Aprender un idioma nuevo siempre es una buena idea. Un idioma diferente
-              es una forma de ver la vida diferente, por ahora hablo ingles, frances 
-              y un poco de alemán
+              es una forma de ver la vida diferente, por ahora hablo inglés, francés 
+              y un poco de alemán.
             </p>
           </div>
         </div>
@@ -171,7 +171,7 @@
       </article>
 
       <article class="card">
-        <h2 class="card__title" data-section="skills" data-value="language">Languages</h2>
+        <h2 class="card__title" data-section="skills" data-value="language">Idiomas</h2>
         <small data-section="skills" data-value="second-skill-text">Nivel de conocimientos</small>
         <div class="skills__header">
           <span class="skills__start-level"><small>A1</small></span>
@@ -179,15 +179,22 @@
         </div>
         <div class="skills">
           <div class="skills__item">
-            <p class="skills__tech">English</p>
+            <p class="skills__tech"
+              data-section="skills" data-value="first-language"
+            >Inglés</p>
             <div class="skills__bar skills__bar--80"></div>
           </div>
           <div class="skills__item">
-            <p class="skills__tech">French</p>
+            <p class="skills__tech"
+              data-section="skills" data-value="second-language"
+            >Francés</p>
             <div class="skills__bar skills__bar--70"></div>
           </div>
           <div class="skills__item">
-            <p class="skills__tech">German</p>
+            <p class="skills__tech"
+              data-section="skills" data-value="third-language"
+              
+            >Alemán</p>
             <div class="skills__bar skills__bar--10"></div>
           </div>
         </div>
@@ -206,7 +213,9 @@
             <span class="project__tag">#Node.js</span>
           </div>
           <h2 class="card__title">Calendar App</h2>
-          <p class="card__text">un calendario dedicado para un equipo de trabajo
+          <p class="card__text"
+            data-section="projects" data-value="first-project-description"
+          >Un calendario dedicado para un equipo de trabajo
             donde sus integrantes pueden agregar eventos por medio de recordatorios, cada
             integrante puede ver los eventos planteados por sus compañeros, de manera que 
             todos esten enterados de las actividades.
@@ -243,7 +252,9 @@
             <span class="project__tag">#Firebase</span>
           </div>
           <h2 class="card__title">Journal App</h2>
-          <p class="card__text">
+          <p class="card__text"
+            data-section="projects" data-value="second-project-description"
+          >
             Un diario personal para plasmar tus experiencias, con la funcionalidad de
             agregar imagenes para tener recuerdos visuales. 
           </p>
@@ -268,10 +279,12 @@
             <span class="project__tag">#Node.js</span>
           </div>
           <h2 class="card__title">REST server</h2>
-          <p class="card__text">
-            Un servidor REST, la idea del proyecto era una API REST con objetivo de un supermercado
-            donde sus trabajadores, tienen un rol, pueden manejar productos, con 
-            sus respectivas categorias
+          <p class="card__text"
+          data-section="projects" data-value="third-project-description"
+          >
+            Un servidor REST, la idea del proyecto era una API REST para un supermercado,
+            donde sus trabajadores, tienen un rol, pueden manejar productos, 
+            con sus respectivas categorias.
           </p>
           <div class="buttons">
             <a 
@@ -295,7 +308,9 @@
             <span class="project__tag">#Node.js</span>
           </div>
           <h2 class="card__title">Socket app</h2>
-          <p class="card__text">
+          <p class="card__text"
+            data-section="projects" data-value="fourth-project-description"
+          >
             Una aplicación realizada para manejar el orden de una cola, un ejemplo
             de aplicación muy utilizadas por bancos, entre otros.
           </p>
@@ -321,16 +336,23 @@
             <span class="project__tag">#React</span>
           </div>
           <h2 class="card__title">Gif Expert App </h2>
-          <p class="card__text">
+          <p class="card__text"
+            data-section="projects" data-value="fifth-project-description"
+          >
             Un input que utilizan los usuarios para buscar gifs sobre en base
             a una palabra u oración.
           </p>
           <div class="buttons">
             <a 
-              href="https://github.com/Grebmesor94/Sockets-cola"
+              href="https://github.com/Grebmesor94/GifExpertApp2"
+              target="_blank" 
+              class="button button--ghost"
+            >Code</a>
+            <a 
+              href="https://grebmesor94.github.io/GifExpertApp2/"
               target="_blank" 
               class="button button--primary"
-            >Code</a>
+            >Demo</a>
           </div>
         </div>
       </article>

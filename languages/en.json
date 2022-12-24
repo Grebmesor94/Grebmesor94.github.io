@@ -18,13 +18,18 @@
   },
   "skills": { 
     "language": "Languages",
+    "first-language": "English",
+    "second-language": "French",
+    "third-language": "German",
     "first-skill-text": "Years of experience",
     "second-skill-text": "Level of knowledge"
   },
   "projects": { 
     "first-project-description": "a dedicated calendar for a work team where its members can add events through reminders, each member can see the events raised by their colleagues, so that everyone is aware of the activities.",
-    "second-project-description": "",
-    "third-project-description": ""
+    "second-project-description": "A personal diary to capture your experiences, with the functionality of adding images to have visual memories.",
+    "third-project-description": "A REST server, the idea of the project was a REST API for a supermarket, where its workers, have a role, can handle products, with their respective categories.",
+    "fourth-project-description": "An application made to manage the order of a queue, an example of an application widely used by banks, among others.",
+    "fifth-project-description": "an input that users use to search for gifs based on a word or sentence."
   }
 }
 

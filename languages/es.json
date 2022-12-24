@@ -18,12 +18,17 @@
   },
   "skills": { 
     "language": "Idiomas",
+    "first-language": "Inglés",
+    "second-language": "Francés",
+    "third-language": "Alemán",
     "first-skill-text": "Años de experiencia",
     "second-skill-text": "Nivel de conocimiento"
   },
   "projects": { 
-    "first-project-description": "un calendario dedicada para un equipo de trabajo donde sus integrantes pueden agregar eventos por medio de recordatorios, cada integrante puede ver los eventos planteados por sus compañeros, de manera que todos esten enterados de las actividades.",
-    "second-project-description": "",
-    "third-project-description": ""
+    "first-project-description": "Un calendario dedicado para un equipo de trabajo donde sus integrantes pueden agregar eventos por medio de recordatorios, cada integrante puede ver los eventos planteados por sus compañeros, de manera que todos esten enterados de las actividades.",
+    "second-project-description": "Un diario personal para plasmar tus experiencias, con la funcionalidad de agregar imagenes para tener recuerdos visuales.",
+    "third-project-description": "Un servidor REST, la idea del proyecto era una API REST para un supermercado, donde sus trabajadores, tienen un rol, pueden manejar productos, con sus respectivas categorias.",
+    "fourth-project-description": "Una aplicación realizada para manejar el orden de una cola, un ejemplo de aplicación muy utilizadas por bancos, entre otros.",
+    "fifth-project-description": "Un input que utilizan los usuarios para buscar gifs sobre en base a una palabra u oración."
   }
 }
