@@ -6,7 +6,9 @@
   "experience": { 
     "first-job-title": "Desarrollador Front End",
     "first-job-date": "Junio 2020 - Hoy",
-    "first-job-description": "Por ahora no tengo experiencia laboral, sin embargo, me encuentro con mucha disposicion y ganas de aprender."
+    "first-job-description": "Por ahora no tengo experiencia laboral, sin embargo, me encuentro con mucha disposicion y ganas de aprender.",
+    "studies": "Estudios",
+    "studies-description": "Actualmente cursando el ultimo año de Medicina en la Universidad Centroccidental Lisandro Alvarado."
   },
   "hobbies": { 
     "first-hobby-title": "Piano",
