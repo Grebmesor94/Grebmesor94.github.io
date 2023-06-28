@@ -3,20 +3,15 @@
     "rol": "Desarrollador Front End junior",
     "description": "2 años de experiencia en desarrollo web. Apasionado por aprender nuevas tecnologías, especialmente los ecosistemas de CSS y JS para el Front End."
   },
-  "experience": { 
+  "experience": {
+    "language-job-title": "Instructor de Francés como lengua extranjera",
+    "language-job-date": "Septiembre 2019 - Marzo 2020",
+    "language-job-description": "Instructor de Frances para niveles A1 y A2",
     "first-job-title": "Desarrollador Front End",
     "first-job-date": "Junio 2020 - Hoy",
-    "first-job-description": "Alrededor de 1 año de experiencia realizando pequeños trabajos como freelancer.",
+    "first-job-description": "Alrededor de 2 años de experiencia realizando pequeños trabajos como freelancer.",
     "studies": "Estudios",
-    "studies-description": "formado como Médico Cirujano en la Universidad Centroccidental \"Lisandro Alvarado\""
-  },
-  "hobbies": { 
-    "first-hobby-title": "Piano",
-    "first-hobby-description": "Desde muy joven, la música ha sido parte de mi esencia, especialmente el piano, me gusta tocar cuando tengo tiempo libre.",
-    "second-hobby-title": "Idiomas",
-    "second-hobby-description": "Aprender un idioma nuevo siempre es una buena idea. Un idioma diferente es una perspectiva de vida diferente, por ahora hablo ingles, frances y un poco de alemán.",
-    "third-hobby-title": "Bailar",
-    "third-hobby-description": "Bailar es una buena manera de aliviar el estrés, compartir con amigos y hacer otros nuevos, y disfrutar de un buen tiempo. Me encanta bailar ritmos latinos como salsa, merengue, bachata, entre otros."
+    "studies-description": "formado como Médico Cirujano en la Universidad Centroccidental \"Lisandro Alvarado\" (2023)"
   },
   "skills": { 
     "language": "Idiomas",

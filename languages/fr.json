@@ -4,19 +4,14 @@
     "description": "2 ans d'expérience en développement web. Passionné par l'apprentissage des nouvelles technologies, en particulier les écosystèmes CSS et JS pour le Front End."
   },
   "experience": { 
+    "language-job-title": "Instructor FLE",
+    "language-job-date": "Septembre 2019 - Mars 2020",
+    "language-job-description": "Instructor de Frances para niveles A1 y A2",
     "first-job-title": "Développeur Front End Junior",
     "first-job-date": "Jun 2020 - aujourd'hui",
-    "first-job-description": "Environ 1 an d'expérience dans des petits travaux en tant qu'indépendant.",
+    "first-job-description": "Environ 2 ans d'expérience dans des petits travaux en tant qu'indépendant.",
     "studies": "Études",
-    "studies-description": "Formé comme médecin à l'Universite Centroccidentale Lisandro Alvarado."
-  },
-  "hobbies": { 
-    "first-hobby-title": "Piano",
-    "first-hobby-description": "Depuis que je suis très jeune, la musique fait partie de mon essence, en particulier le piano, j'aime jouer quand j'ai du temps libre.",
-    "second-hobby-title": "Langues",
-    "second-hobby-description": "Apprendre une nouvelle langue est toujours une bonne idée. Une langue différente est une perspective de vie différente, pour l'instant je parle anglais, français et un peu allemand.",
-    "third-hobby-title": "Danser",
-    "third-hobby-description": "La danse est un bon moyen de soulager le stress, de partager avec des amis et de s'en faire de nouveaux, et de passer un bon moment. J'aime danser les rythmes latins comme la salsa, le merengue, la bachata, entre autres."
+    "studies-description": "Formé comme médecin à l'Universite Centroccidentale Lisandro Alvarado. (2023)"
   },
   "skills": { 
     "language": "Langues",

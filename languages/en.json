@@ -4,19 +4,14 @@
     "description": "2 years of experience in web development. Passionate about learning new technologies, especially CSS and JS ecosystems for the Front End."
   },
   "experience": { 
+    "language-job-title": "Instructor of French as a foreign language",
+    "language-job-date": "September 2019 - March 2020",
+    "language-job-description": "French instructor for levels A1 and A2",
     "first-job-title": "Front End Developer",
     "first-job-date": "June 2020 - today",
-    "first-job-description": "About 1 year of experience doing small jobs as a freelancer.",
+    "first-job-description": "About 2 years of experience doing small jobs as a freelancer.",
     "studies": "Studies",
-    "studies-description": "trained as a Doctor of Medicine (MD) at the \"Lisandro Alvarado\" Centroccidental University"
-  },
-  "hobbies": { 
-    "first-hobby-title": "Piano",
-    "first-hobby-description": "Since I was very young, music has been part of my essence, especially the piano, I like to play when I have free time.",
-    "second-hobby-title": "Languages",
-    "second-hobby-description": "Learning a new language is always a good idea. A different language is a different perspective of life, for now I speak English, French and a little German.",
-    "third-hobby-title": "Dancing",
-    "third-hobby-description": "Dancing is a good way to relieve stress, share with friends and make some new ones, and have a good time. I love to dance Latin rhythms like salsa, merengue, bachata, among others."
+    "studies-description": "trained as a Doctor of Medicine (MD) at the \"Lisandro Alvarado\" Centroccidental University (2023)"
   },
   "skills": { 
     "language": "Languages",
